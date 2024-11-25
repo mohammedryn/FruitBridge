@@ -1,0 +1,905 @@
+.vegetable-table-an-array-of-di-icon {
+    position: absolute;
+    top: -26px;
+    left: 701px;
+    width: 700px;
+    height: 392px;
+    object-fit: cover;
+}
+.healthy-and-fresh {
+    margin: 0;
+}
+.healthy-and-fresh-container {
+    position: absolute;
+    top: 62px;
+    left: 40px;
+    letter-spacing: 0.04em;
+    line-height: 150.2%;
+    text-transform: uppercase;
+}
+.we-pride-ourselves-container {
+    position: absolute;
+    top: 180px;
+    left: 40px;
+    font-size: 16px;
+    line-height: 150.2%;
+    text-transform: uppercase;
+    color: #f5f5f5;
+}
+.learn-more {
+    position: relative;
+    line-height: 150.2%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.learn-more-wrapper {
+    position: absolute;
+    top: 286px;
+    left: 40px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 200px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 24px;
+    color: #0b6434;
+}
+.banner {
+    width: 1440px;
+    position: relative;
+    background-color: #0b6434;
+    height: 408px;
+    overflow: hidden;
+    flex-shrink: 0;
+    font-size: 36px;
+}
+.grapes1 {
+    position: absolute;
+    top: 117px;
+    left: calc(50% - 64px);
+    line-height: 150.2%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    width: 128px;
+    height: 35px;
+}
+.what-are-grapes-nutrition-heal-icon {
+    position: absolute;
+    top: 9px;
+    left: -16px;
+    width: 170px;
+    height: 95.6px;
+    object-fit: cover;
+}
+.image {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 154px;
+    height: 114px;
+    overflow: hidden;
+}
+.grapes {
+    position: absolute;
+    top: 208px;
+    left: 110px;
+    width: 154px;
+    height: 149px;
+}
+.citrus1 {
+    position: absolute;
+    top: 114px;
+    left: calc(50% - 48px);
+    line-height: 150.2%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    width: 96px;
+    height: 27px;
+}
+.citrus-fruits-names-for-presch-icon {
+    position: absolute;
+    top: 7px;
+    left: 4px;
+    width: 146px;
+    height: 99.8px;
+    object-fit: cover;
+}
+.citrus {
+    position: absolute;
+    top: -2px;
+    left: 966px;
+    width: 154px;
+    height: 141px;
+}
+.fresh-nuts1 {
+    position: absolute;
+    top: 114px;
+    left: calc(50% - 79px);
+    line-height: 150.2%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    width: 158px;
+    height: 35px;
+}
+.nuts-1-icon {
+    position: absolute;
+    top: calc(50% - 57px);
+    left: calc(50% - 57px);
+    width: 114px;
+    height: 114px;
+    object-fit: cover;
+}
+.image2 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 77px);
+    width: 154px;
+    height: 114px;
+    overflow: hidden;
+}
+.fresh-nuts {
+    position: absolute;
+    top: 7px;
+    left: 229px;
+    width: 158px;
+    height: 149px;
+}
+.apple1 {
+    position: absolute;
+    top: 116px;
+    left: calc(50% - 48px);
+    line-height: 150.2%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    width: 96px;
+    height: 29px;
+}
+.what-to-know-apples-green-red-icon {
+    position: absolute;
+    top: 18px;
+    left: 0px;
+    width: 138.9px;
+    height: 78px;
+    object-fit: cover;
+}
+.apple {
+    position: absolute;
+    top: 3px;
+    left: 488px;
+    width: 154px;
+    height: 143px;
+}
+.fruits1 {
+    position: absolute;
+    top: 114px;
+    left: calc(50% - 44px);
+    line-height: 150.2%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    width: 88px;
+    height: 35px;
+}
+.fruit-1-icon {
+    position: absolute;
+    top: calc(50% - 50px);
+    left: calc(50% - 76px);
+    width: 152px;
+    height: 100px;
+    object-fit: cover;
+}
+.fruits {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 154px;
+    height: 149px;
+}
+.vegetables1 {
+    position: absolute;
+    top: 114px;
+    left: calc(50% - 77px);
+    line-height: 150.2%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    width: 192px;
+    height: 35px;
+}
+.meat-1-icon {
+    position: absolute;
+    top: calc(50% - 44px);
+    left: calc(50% - 78px);
+    width: 156px;
+    height: 88px;
+    object-fit: cover;
+}
+.vegetables {
+    position: absolute;
+    top: -3px;
+    left: 726px;
+    width: 154px;
+    height: 149px;
+}
+.category-list-section {
+    width: 1360px;
+    position: relative;
+    height: 194px;
+    flex-shrink: 0;
+    color: #2b2b2b;
+}
+.fruits-1-icon {
+    position: absolute;
+    top: calc(50% - 133.5px);
+    left: 0px;
+    width: 396px;
+    height: 267px;
+    object-fit: cover;
+}
+.super-sale {
+    font-size: 32px;
+}
+.fresh-fruit-super-container {
+    position: absolute;
+    top: 78px;
+    left: calc(50% + 174px);
+    line-height: 120%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.shop-now {
+    position: relative;
+    line-height: 120%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.shop-now-wrapper {
+    position: absolute;
+    top: 156px;
+    left: 965px;
+    border-radius: 5px;
+    background-color: #000;
+    width: 155px;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+.fruit-banner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: rgba(253, 81, 81, 0.67);
+    width: 1360px;
+    height: 267px;
+    overflow: hidden;
+}
+.enjoy-your-fresh {
+    position: absolute;
+    top: 179px;
+    left: 91px;
+    line-height: 120%;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.frame-child {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    width: 200px;
+    height: 81px;
+}
+.div {
+    position: absolute;
+    top: 29px;
+    left: calc(50% - 38px);
+    line-height: 120%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.up-to {
+    position: absolute;
+    top: 0px;
+    left: 29px;
+    font-size: 16px;
+    line-height: 120%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.discount {
+    position: absolute;
+    top: 79px;
+    left: 73px;
+    font-size: 20px;
+    line-height: 120%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.vector-parent {
+    position: absolute;
+    top: 71px;
+    left: 89px;
+    width: 200px;
+    height: 103px;
+    font-size: 36px;
+    color: #000;
+}
+.fruitimage-icon {
+    position: absolute;
+    top: 10px;
+    left: 940px;
+    width: 374px;
+    height: 186px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.drink-banner {
+    position: absolute;
+    top: 307px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #ff9564;
+    width: 1360px;
+    height: 267px;
+    overflow: hidden;
+    font-size: 14px;
+}
+.banner1 {
+    width: 1360px;
+    position: relative;
+    height: 574px;
+    flex-shrink: 0;
+    text-align: center;
+}
+.cabbage1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 54.5px);
+}
+.kg {
+    position: absolute;
+    top: 253px;
+    left: calc(50% - 20.5px);
+}
+.div1 {
+    position: absolute;
+    top: 298px;
+    left: calc(50% - 41.5px);
+}
+.add-to-cart {
+    position: relative;
+}
+.add-to-cart-wrapper {
+    position: absolute;
+    top: 343px;
+    left: calc(50% - 77.5px);
+    border-radius: 5px;
+    background-color: #0b6434;
+    width: 154px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+    color: #fff;
+}
+.image-icon {
+    position: absolute;
+    top: 31px;
+    left: calc(50% - 106.5px);
+    width: 213px;
+    height: 161px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.cabbage {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    border-radius: 5px;
+    border: 1px solid #0b6434;
+    box-sizing: border-box;
+    width: 319px;
+    height: 418px;
+    overflow: hidden;
+}
+.cauliflower1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 68.5px);
+    display: inline-block;
+    width: 137px;
+}
+.cauliflower-1-icon {
+    position: absolute;
+    top: calc(50% - 88.5px);
+    left: calc(50% - 106.5px);
+    width: 200px;
+    height: 166.4px;
+    object-fit: cover;
+}
+.image6 {
+    position: absolute;
+    top: 31px;
+    left: calc(50% - 106.5px);
+    width: 213px;
+    height: 161px;
+    overflow: hidden;
+}
+.cauliflower {
+    position: absolute;
+    top: 1px;
+    left: 347px;
+    border-radius: 5px;
+    border: 1px solid #0b6434;
+    box-sizing: border-box;
+    width: 319px;
+    height: 418px;
+    overflow: hidden;
+}
+.red-cabbage1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 81.5px);
+}
+.red-cabbage-1-icon {
+    position: absolute;
+    top: 13px;
+    left: 40px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.red-cabbage {
+    position: absolute;
+    top: 1px;
+    left: 694px;
+    border-radius: 5px;
+    border: 1px solid #0b6434;
+    box-sizing: border-box;
+    width: 319px;
+    height: 418px;
+    overflow: hidden;
+}
+.green-papaya1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 83.5px);
+}
+.green-papaya-1 {
+    position: absolute;
+    top: calc(50% - 45.5px);
+    left: calc(50% - 90.5px);
+    width: 182px;
+    height: 93px;
+    object-fit: cover;
+}
+.green-papaya {
+    position: absolute;
+    top: 0px;
+    left: 1041px;
+    border-radius: 5px;
+    border: 1px solid #0b6434;
+    box-sizing: border-box;
+    width: 319px;
+    height: 418px;
+    overflow: hidden;
+}
+.all-product-section-1 {
+    position: absolute;
+    top: 102px;
+    left: 40px;
+    width: 1360px;
+    height: 419px;
+}
+.red-tomato1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 73.5px);
+}
+.tomato-1-icon {
+    position: absolute;
+    top: calc(50% - 60.5px);
+    left: calc(50% - 92.5px);
+    width: 185px;
+    height: 121px;
+    object-fit: cover;
+}
+.green-tomato1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 85.5px);
+}
+.red-tomato-1 {
+    position: absolute;
+    top: calc(50% - 60.5px);
+    left: calc(50% - 105.5px);
+    width: 211px;
+    height: 122px;
+    object-fit: cover;
+}
+.bean1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 31.5px);
+}
+.bean-1-icon {
+    position: absolute;
+    top: calc(50% - 61.5px);
+    left: calc(50% - 89.5px);
+    width: 180px;
+    height: 124px;
+    object-fit: cover;
+}
+.radish1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 41.5px);
+}
+.radish-1-icon {
+    position: absolute;
+    top: calc(50% - 49.5px);
+    left: calc(50% - 93.5px);
+    width: 187px;
+    height: 99px;
+    object-fit: cover;
+}
+.all-product-section-2 {
+    position: absolute;
+    top: 560px;
+    left: 40px;
+    width: 1360px;
+    height: 419px;
+}
+.wal-nut1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 49.5px);
+}
+.walnuts-1-icon {
+    position: absolute;
+    top: calc(50% - 68.5px);
+    left: calc(50% - 82.5px);
+    width: 164px;
+    height: 138px;
+    object-fit: cover;
+}
+.cashew-nut-1 {
+    position: absolute;
+    top: calc(50% - 63.5px);
+    left: calc(50% - 83.5px);
+    width: 166px;
+    height: 127px;
+    object-fit: cover;
+}
+.almond1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 48.5px);
+}
+.almond-1-icon {
+    position: absolute;
+    top: calc(50% - 53.5px);
+    left: calc(50% - 75.5px);
+    width: 151px;
+    height: 107px;
+    object-fit: cover;
+}
+.china-peanuts1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 87.5px);
+}
+.china-peanuts-1 {
+    position: absolute;
+    top: calc(50% - 73.5px);
+    left: calc(50% - 73.5px);
+    width: 147px;
+    height: 147px;
+    object-fit: cover;
+}
+.all-product-section-3 {
+    position: absolute;
+    top: 1018px;
+    left: 40px;
+    width: 1360px;
+    height: 419px;
+}
+.stew-beef-meat {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 94.5px);
+}
+.oranges1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 40.5px);
+}
+.istockphoto-918595138-612x612-icon {
+    position: absolute;
+    top: 0px;
+    left: 21px;
+    width: 170px;
+    height: 170px;
+    object-fit: cover;
+}
+.mangoes1 {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 65.5px);
+}
+.image-icon2 {
+    position: absolute;
+    top: 31px;
+    left: calc(50% - 101.5px);
+    width: 208px;
+    height: 166px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.kiwi1 {
+    position: absolute;
+    top: 209px;
+    left: calc(50% - 28.5px);
+}
+.kg15 {
+    position: absolute;
+    top: 253px;
+    left: calc(50% - 19.5px);
+}
+.div16 {
+    position: absolute;
+    top: 298px;
+    left: calc(50% - 40.5px);
+}
+.kiwi-fruit-1-icon {
+    position: absolute;
+    top: 27px;
+    left: 7px;
+    width: 200px;
+    height: 133.9px;
+    object-fit: cover;
+}
+.all-product-section-4 {
+    position: absolute;
+    top: 1476px;
+    left: 40px;
+    width: 1360px;
+    height: 419px;
+}
+.all-products {
+    position: absolute;
+    top: 15px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 150.2%;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    display: inline-block;
+    width: 1440px;
+}
+.product-list {
+    align-self: stretch;
+    position: relative;
+    height: 1925px;
+    overflow: hidden;
+    flex-shrink: 0;
+    color: #000;
+}
+.about {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+}
+.who-we-are {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.privacy-policy {
+    position: absolute;
+    top: 43px;
+    left: 0px;
+}
+.who-we-are-parent {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    width: 164px;
+    height: 72px;
+    font-size: 24px;
+}
+.about-parent {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    width: 164px;
+    height: 131px;
+    font-size: 28px;
+}
+.support-parent {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    width: 144px;
+    height: 72px;
+}
+.help {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 28px;
+    font-weight: 500;
+}
+.frame-parent {
+    position: absolute;
+    top: 30px;
+    left: 385px;
+    width: 144px;
+    height: 131px;
+}
+.facebook-parent {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    width: 124px;
+    height: 72px;
+}
+.frame-group {
+    position: absolute;
+    top: 30px;
+    left: 1200px;
+    width: 200px;
+    height: 131px;
+}
+.terms-condition-parent {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    width: 309px;
+    height: 72px;
+}
+.frame-container {
+    position: absolute;
+    top: 30px;
+    left: 710px;
+    width: 309px;
+    height: 131px;
+}
+.footer {
+    align-self: stretch;
+    position: relative;
+    background-color: #c6ead7;
+    height: 191px;
+    overflow: hidden;
+    flex-shrink: 0;
+    color: #000;
+}
+.spillout {
+    position: absolute;
+    width: 100%;
+    top: 80px;
+    right: -0.07%;
+    left: 0.07%;
+    height: 1120px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color: #fff;
+}
+.log-child {
+    position: absolute;
+    top: calc(50% - 21px);
+    left: 16px;
+    width: 40px;
+    height: 40px;
+}
+.log-item {
+    position: absolute;
+    top: calc(50% - 21px);
+    left: 70px;
+    width: 40px;
+    height: 40px;
+}
+.log {
+    position: absolute;
+    top: 0px;
+    right: 11px;
+    width: 132px;
+    height: 68px;
+    overflow: hidden;
+}
+.home {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 18px;
+    font-weight: 500;
+    color: #0b6434;
+}
+.about1 {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 156px;
+    font-weight: 500;
+}
+.contact1 {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 600px;
+    font-weight: 500;
+}
+.product {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 443px;
+    font-weight: 500;
+}
+.service {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 294px;
+    font-weight: 500;
+}
+.things {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 337px);
+    width: 701px;
+    height: 72px;
+    overflow: hidden;
+    font-size: 20px;
+}
+.FruitBrigde {
+    position: absolute;
+    top: 20px;
+    left: 102px;
+    font-weight: 500;
+}
+.grocery-logo-1-icon {
+    position: absolute;
+    top: calc(50% - 38.5px);
+    left: 16px;
+    width: 86px;
+    height: 69px;
+    object-fit: cover;
+}
+.logoframe {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    width: 295px;
+    height: 69px;
+    overflow: hidden;
+}
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1200px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #000;
+    font-family: Montserrat;
+}
+

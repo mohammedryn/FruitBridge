@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-orelega-one: "Orelega One";
+    --font-inter: Inter;
+    --font-montserrat: Montserrat;
+    --font-montagu-slab: "Montagu Slab";
+  
+    /* font sizes */
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-black: #000;
+  
+    /* Border radiuses */
+    --br-3xs: 10px;
+  }
+  

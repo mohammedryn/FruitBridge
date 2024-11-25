@@ -1,0 +1,238 @@
+.fruitbridge {
+    position: absolute;
+    top: 20px;
+    left: 102px;
+  }
+  .grocery-logo-1-icon {
+    position: absolute;
+    top: calc(50% - 38.5px);
+    left: 16px;
+    width: 86px;
+    height: 69px;
+    object-fit: cover;
+  }
+  .logoframe {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    width: 295px;
+    height: 69px;
+    overflow: hidden;
+    font-size: 24px;
+  }
+  .about,
+  .contact,
+  .home,
+  .product,
+  .service {
+    position: absolute;
+    top: calc(50% - 11px);
+    font-weight: 500;
+  }
+  .home {
+    left: 18px;
+    color: #0b6434;
+  }
+  .about,
+  .contact,
+  .product,
+  .service {
+    left: 156px;
+  }
+  .contact,
+  .product,
+  .service {
+    left: 600px;
+  }
+  .product,
+  .service {
+    left: 443px;
+  }
+  .service {
+    left: 294px;
+  }
+  .things {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 325px);
+    width: 701px;
+    height: 72px;
+    overflow: hidden;
+    font-family: var(--font-montserrat);
+  }
+  .log-child {
+    top: calc(50% - 21px);
+    left: 16px;
+    width: 40px;
+    height: 40px;
+  }
+  .log,
+  .log-child,
+  .log-item {
+    position: absolute;
+  }
+  .log-item {
+    top: calc(50% - 21px);
+    left: 70px;
+    width: 40px;
+    height: 40px;
+  }
+  .log {
+    top: 0;
+    right: 0;
+    width: 132px;
+    height: 68px;
+    overflow: hidden;
+  }
+  .frame-child,
+  .who-are-you {
+    position: absolute;
+    top: 6px;
+    left: 15px;
+  }
+  .frame-child {
+    top: 18px;
+    left: 158px;
+    width: 9px;
+    height: 5px;
+  }
+  .who-are-you-parent {
+    position: absolute;
+    height: 31.03%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 68.97%;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: #fff;
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .customer {
+    position: relative;
+  }
+  .customer-wrapper {
+    position: absolute;
+    top: 0;
+    left: 32px;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .frame-wrapper {
+    align-self: stretch;
+    border-radius: var(--br-3xs);
+    height: 36px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .employee,
+  .frame-wrapper {
+    position: relative;
+  }
+  .employee-wrapper {
+    align-self: stretch;
+    border-radius: var(--br-3xs);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 43px;
+  }
+  .frame-parent {
+    position: absolute;
+    height: 62.07%;
+    width: 100%;
+    top: 37.93%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: var(--br-3xs);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    color: var(--color-black);
+  }
+  .categorize,
+  .selector {
+    position: absolute;
+    top: 205px;
+    left: 107px;
+    width: 182px;
+    height: 116px;
+  }
+  .categorize {
+    top: 0;
+    left: 0;
+    width: 395px;
+    height: 511px;
+    overflow: hidden;
+  }
+  .fresh-exports-greener {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 249px;
+  }
+  .details-frame,
+  .side,
+  .slogan {
+    position: absolute;
+    overflow: hidden;
+  }
+  .slogan {
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 365px;
+  }
+  .details-frame,
+  .side {
+    height: 511px;
+  }
+  .side {
+    top: 0;
+    left: 395px;
+    background-color: green;
+    width: 200px;
+    font-size: 32px;
+    color: #f5f5f5;
+    font-family: var(--font-orelega-one);
+  }
+  .details-frame {
+    top: calc(50% - 280.5px);
+    left: calc(50% - 275px);
+    border-radius: 20px;
+    background-color: rgba(177, 202, 177, 0.91);
+    width: 595px;
+    text-align: center;
+    color: #2b5d42;
+    font-family: var(--font-inter);
+  }
+  .login {
+    width: 100%;
+    position: relative;
+    background-color: rgba(0, 128, 0, 0.53);
+    height: 1085px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-montagu-slab);
+  }
+  
